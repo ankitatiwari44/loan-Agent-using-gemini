@@ -1,0 +1,11 @@
+Personal Loan Eligibility 
+{
+ "verdict": "Eligible",
+ "reason": "All criteria for Personal Loan met: age is within 21–60, income is above 25,000, bureau score is above 700, and EMI is 25% of income which is below the 50% limit."
+}
+
+ SME Loan Eligibility
+{
+ "verdict": "Eligible",
+ "reason": "Applicant meets all SME loan criteria including age, bureau score, business vintage, turnover, and documentation requirements."
+}
